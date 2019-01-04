@@ -8,6 +8,7 @@ public static void main(String[] args) {
 	for(int i=0;i<A.length;i++){
 		System.out.print(A[i]+"<");
 		System.out.print("c");
+		System.out.print("b");
 	}
 }
 public static int Partition(int[] A,int p,int r) {
