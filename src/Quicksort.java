@@ -7,6 +7,7 @@ public static void main(String[] args) {
 	sort(A, start, end);
 	for(int i=0;i<A.length;i++){
 		System.out.print(A[i]+"<");
+		System.out.print("a");
 	}
 }
 public static int Partition(int[] A,int p,int r) {
